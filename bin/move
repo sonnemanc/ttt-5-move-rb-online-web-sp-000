@@ -2,7 +2,7 @@
 require_relative '../lib/move.rb'
 
 # Code your CLI Here
-def initialize (board = nil)
+def board (board = nil)
   @board = board || Array.new(9, " ")
 end
 puts "Welcome to Tic Tac Toe!"
