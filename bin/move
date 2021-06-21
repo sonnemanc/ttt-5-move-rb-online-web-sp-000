@@ -9,4 +9,3 @@ def board
 end
 puts "Where would you like to go?"
 gets.strip=input
-do input_to_index(input)
