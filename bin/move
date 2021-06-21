@@ -8,4 +8,3 @@ def board
   puts [ " ", " ", " ", " ", " ", " ", " "," ", " "]
 end
 puts "Where would you like to go?"
-gets.strip=input
